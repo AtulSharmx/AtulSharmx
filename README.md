@@ -34,13 +34,16 @@ This is a fast and fully-responsive frontend online store. I decided to build th
 **[The Full Stack Safety Net](https://github.com/AtulSharmx/The-Full-Stack-Safety-Net)**  
 This is a comprehensive full-stack application I am currently working on. You can check out the source code on my profile to see my latest progress as I keep adding new features.
 
-### GitHub Stats
+### GitHub Stats & Activity
 
 <p align="left">
   <a href="https://github.com/AtulSharmx">
-    <img alt="Atul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=atulsharmx&show_icons=true&hide_border=true&theme=radical" height="150" />
+    <img alt="Atul's GitHub Streak" src="https://streak-stats.demolab.com?user=atulsharmx&theme=radical&hide_border=true" height="160" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/AtulSharmx">
-    <img alt="Atul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulsharmx&show_icons=true&hide_border=true&theme=radical&layout=compact" height="150" />
+    <img alt="Atul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=atulsharmx&theme=radical&hide_border=true" width="100%" />
   </a>
 </p>
