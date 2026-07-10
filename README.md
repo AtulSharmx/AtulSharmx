@@ -1,24 +1,40 @@
-# Atul Sharma
+<h1 align="center">Hi, I'm Atul Sharma</h1>
+<h3 align="center">Computer Science Student & Aspiring Full-Stack Developer</h3>
 
-**CS Student & Aspiring Full-Stack Developer**  
-Currently in my 2nd year, focusing on building robust applications and writing clean, maintainable code.
+<p align="center">
+  <a href="https://atulsharmx.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/atulsharmx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:atulsharmx0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[Portfolio](https://atulsharmx.netlify.app/) ✺ [LinkedIn](https://linkedin.com/in/atulsharmx) ✺ [Email](mailto:atulsharmx0@gmail.com)
+---
 
-<br/>
+I am currently a 2nd-year college student who loves building things for the web. My main goal right now is to write clean code, solve interesting problems, and grow as a software developer so I can land my first internship.
 
-### 💻 Current Focus
-- ☕ Learning **Java** and grinding Data Structures & Algorithms on LeetCode.
-- 🏗️ Building out my full-stack capabilities through hands-on projects.
+Currently, I spend most of my time learning Java and practicing Data Structures and Algorithms on LeetCode. Along with that, I am working on real-world projects to get better at full-stack development and learn how everything connects behind the scenes.
 
-### 🚀 Featured Projects
-- **[Ecommerce Storefront](https://github.com/AtulSharmx/Ecommerce-Storefront)** — A minimal, fast, and fully-responsive frontend store built entirely without frameworks using Vanilla JS.
-- **[The-Full-Stack-Safety-Net](https://github.com/AtulSharmx/The-Full-Stack-Safety-Net)** — A comprehensive full-stack project currently in the works.
+### Skills and Tools
+I work with a mix of frontend and backend technologies:
 
-### 🛠 Core Stack
-`Java` `Python` `JavaScript` `HTML5` `CSS3` `SQL` `Git`
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### 📈 GitHub Overview
+### Featured Projects
+
+**[Ecommerce Storefront](https://github.com/AtulSharmx/Ecommerce-Storefront)**  
+This is a fast and fully-responsive frontend online store. I decided to build this entirely from scratch using Vanilla JavaScript instead of heavy frameworks. I did this to make sure I really understand how the DOM works before moving on to things like React.
+
+**[The Full Stack Safety Net](https://github.com/AtulSharmx/The-Full-Stack-Safety-Net)**  
+This is a comprehensive full-stack application I am currently working on. You can check out the source code on my profile to see my latest progress as I keep adding new features.
+
+### GitHub Stats
 
 <p align="left">
   <picture>
