@@ -46,7 +46,7 @@ This is a comprehensive full-stack application I am currently working on. You ca
 
 <div align="center">
   <a href="https://github.com/AtulSharmx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atulsharmx&layout=compact&theme=radical" alt="Atul's Most Used Languages" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=atulsharmx&layout=compact&theme=radical" alt="Atul's Most Used Languages" />
   </a>
 </div>
 
