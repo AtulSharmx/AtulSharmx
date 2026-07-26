@@ -1,44 +1,31 @@
 <h1 align="center">Hi, I'm Atul Sharma 👋</h1>
-<h3 align="center">Aspiring SOC Analyst & Cybersecurity Enthusiast</h3>
+<h3 align="center">2nd-Year CS Student @ SGT University | Aspiring SOC Analyst</h3>
 
 ---
 
-### 🛡️ About Me
+### About Me
 
-I am a Computer Science student on a structured journey to become a **Security Operations Center (SOC) Analyst**. I follow a disciplined, hands-on learning strategy focused on core security concepts, network analysis, and security automation.
+Hey there! I'm a 2nd-year Computer Science student at SGT University preparing for a career as a Security Operations Center (SOC) Analyst. 
 
-- 🎯 **Target Role:** Security Operations Center (SOC) Analyst
-- ✅ **Just Completed:** **Python** (Core concepts, scripting & automation basics)
-- 🚀 **Currently Learning:** **Networking Fundamentals** (TCP/IP, OSI Model, Routing, Switching & Protocols)
-- 🐧 **Side-by-Side Learning:** **Linux / Ubuntu**, Terminal Mastery, Bash Scripting & Network Tools (Wireshark)
-- 📈 **Learning Strategy:** Building strong foundational skills first (Programming -> Networking -> Linux -> Security Tools & SIEM) before stepping into threat detection & incident response.
+Right now, I'm building my core skills step by step:
 
----
+- 🐍 **Python:** Just finished learning Python for scripting, automating tasks, and working with data.
+- 🌐 **Networking Fundamentals:** Currently learning network protocols, TCP/IP, OSI model, subnetting, and traffic analysis.
+- 🐧 **Linux & Tools:** Learning Ubuntu alongside — getting comfortable with the terminal, Bash scripting, and tools like Wireshark.
 
-### 🛣️ My Learning Flow & Roadmap
-
-```
-  ┌──────────────────────────────┐
-  │     Python Scripting         │  ✅ COMPLETED
-  │  (Automation & Data Basics)  │
-  └──────────────┬───────────────┘
-                 │
-                 ▼
-  ┌──────────────────────────────┐     ┌──────────────────────────────┐
-  │    Networking Fundamentals   │ ◄───┤   Linux & Ubuntu Ecosystem   │
-  │   (TCP/IP, OSI, Traffic)     │ 🚀  │   (CLI, Admin, Bash Tools)   │ 🐧
-  └──────────────┬───────────────┘     └──────────────────────────────┘
-                 │
-                 ▼
-  ┌──────────────────────────────┐
-  │   SOC Analysis & Operations  │  🎯 UPCOMING
-  │   (SIEM, Log Analysis, Def)  │
-  └──────────────────────────────┘
-```
+I believe in building a solid foundation first: programming → networking → Linux system administration → security operations.
 
 ---
 
-### 🧰 Skills & Tools
+### What I'm Learning Right Now
+
+- 🔍 **Networking:** TCP/IP, UDP, DNS, DHCP, HTTP/HTTPS, Subnetting
+- 💻 **Operating Systems:** Linux (Ubuntu), CLI navigation, file management, user permissions
+- 🛡️ **Security Tools:** Wireshark, Bash scripting, Python automation scripts
+
+---
+
+### Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -47,7 +34,7 @@ I am a Computer Science student on a structured journey to become a **Security O
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
