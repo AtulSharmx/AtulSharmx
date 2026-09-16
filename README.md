@@ -5,15 +5,15 @@
 
 ### About Me
 
-I am a second-year Computer Science student at SGT University, currently focusing on cybersecurity and working towards becoming a SOC (Security Operations Center) Analyst.
+Second-year Computer Science student at SGT University, working toward a career as a SOC (Security Operations Center) Analyst.
 
-I recently finished learning Python for scripting and basic automation, and right now I am focusing on networking fundamentals like TCP/IP, the OSI model, subnets, and network protocols. Alongside networking, I work with Ubuntu Linux every day to get comfortable with the terminal, bash scripting, and packet analysis tools like Wireshark.
+I've been learning Python for scripting and automation, and I'm currently focused on networking fundamentals — TCP/IP, the OSI model, subnetting, and core protocols. Alongside that, I use Ubuntu Linux daily to get comfortable with the terminal, bash scripting, and packet analysis tools like Wireshark.
 
 ### Current Focus
 
-- Python: Completed core concepts, scripting, and automation basics
-- Networking: TCP/IP, OSI model, DNS, DHCP, HTTP/HTTPS, subnetting, and traffic analysis
-- Linux & Tools: Ubuntu, command line navigation, Bash scripting, Wireshark
+- Python: Scripting and automation basics
+- Networking: TCP/IP, OSI model, DNS, DHCP, HTTP/HTTPS, subnetting, traffic analysis
+- Linux & Tools: Ubuntu, command line, Bash scripting, Wireshark
 
 ### Skills & Tools
 
