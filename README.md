@@ -1,19 +1,25 @@
 <h1 align="center">Hi, I'm Atul Sharma</h1>
-<h3 align="center">2nd-Year Computer Science Student @ SGT University | Aspiring SOC Analyst</h3>
+<h3 align="center">BCA (Data Science) Student @ SGT University | Aspiring SOC Analyst</h3>
 
 ---
 
 ### About Me
 
-Second-year Computer Science student at SGT University, working toward a career as a SOC (Security Operations Center) Analyst.
+Second-year BCA student at SGT University, Gurugram, working toward a career as a SOC (Security Operations Center) Analyst.
 
-I've been learning Python for scripting and automation, and I'm currently focused on networking fundamentals — TCP/IP, the OSI model, subnetting, and core protocols. Alongside that, I use Ubuntu Linux daily to get comfortable with the terminal, bash scripting, and packet analysis tools like Wireshark.
+I'm learning how attacks show up in logs and network traffic, and building small Python tools to detect them. I use Ubuntu Linux daily and practise with the terminal, Bash and Wireshark.
 
-### Current Focus
+### Projects
 
-- Python: Scripting and automation basics
+- [log-parser](https://github.com/AtulSharmx/log-parser) - Python tool that reads a Linux SSH `auth.log`, flags IPs with repeated failed logins (brute force, MITRE ATT&CK T1110), and warns when a flagged IP also logged in successfully.
+- [File-Storage-System](https://github.com/AtulSharmx/File-Storage-System) - FastAPI + AWS S3 file storage app (upload, search, sort, download, delete).
+- [Weather-App](https://github.com/AtulSharmx/Weather-App), [Bill-Splitter-Tip-Calculator](https://github.com/AtulSharmx/Bill-Splitter-Tip-Calculator) - small front-end practice projects.
+
+### Currently Learning
+
 - Networking: TCP/IP, OSI model, DNS, DHCP, HTTP/HTTPS, subnetting, traffic analysis
-- Linux & Tools: Ubuntu, command line, Bash scripting, Wireshark
+- Linux and tools: Ubuntu, command line, Bash scripting, Wireshark
+- Python for security scripting and automation
 
 ### Skills & Tools
 
@@ -24,7 +30,7 @@ I've been learning Python for scripting and automation, and I'm currently focuse
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ### GitHub Activity
@@ -34,26 +40,6 @@ I've been learning Python for scripting and automation, and I'm currently focuse
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtulSharmx/AtulSharmx/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AtulSharmx/AtulSharmx/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/AtulSharmx">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=atulsharmx&layout=compact&theme=radical" alt="Atul's Most Used Languages" />
-  </a>
-</div>
-
-### Contribution Streak
-
-<div align="center">
-  <a href="https://github.com/AtulSharmx">
-    <img src="https://streak-stats.demolab.com?user=atulsharmx&theme=radical" alt="Atul's GitHub Streak" />
-  </a>
-</div>
-
-### Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=atulsharmx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
 
